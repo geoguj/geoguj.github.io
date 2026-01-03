@@ -13,9 +13,6 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
-
 
 Credits:
 
@@ -27,4 +24,5 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
+
 		Responsive Tools (github.com/ajlkn/responsive-tools)
